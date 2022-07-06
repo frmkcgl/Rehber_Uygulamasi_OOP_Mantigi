@@ -1,7 +1,7 @@
 # Rehber_App
 
 # Rehber_Uygulaması # Herkese Selam 
-# Bu Bölümde javascript kullanarak dinamik bir rehber uygulaması gerçekleştirdim.Bu uygulamada kullanıcı isim-soyisim-mail bilgilerini kullanarak rehbere yeni kişi ekleme yapılabilmekte ve herbir kayıt üzerinde güncellemeler yapılabilmektedir.Ayrıca her bir kaydı silebilmekteyizde.Silme-ekleme-güncelleme yaptığımız zaman 2 saniye ekranda kalan ve sonra kaybolan bilgilendirme mesajlarıda projemde yer almaktadır.İlerleyen zamanlarda projeme localstorage ekleyip yaptığım işlemlerin local hafızada kayıtlı kalmasını sağlayacağım.
+# %100 OOP mantığı ile geliştirmiş olduğum ve %100 dinamik olan rehber_uygulamam da rehbere ekleme-silme-güncelleme işlemleri yapılabilmekte ve aynı mail adresine sahip olan kullanıcıların ekleme işlemi yapılamamaktadır.Ayrıca mail adresinin gerekli formatta olması içinde gerekli kontroller modül içerisinde yer almaktadır.Css 'transition' mantığı ile ekleme silme güncelleme gibi çeşitli işlemlerde ekrana gelen bilgilendirme kutucuklarının hoş bir efekt ile açılıp kapanmasıda yine modül içerisinde yer almaktadır.Modülü index.html üzerinden çalıştırabiliriz.İyi çalışmalar
 ## _Yeni Projeler Yaptıkça Ekleyeceğim_  
 ### [Linkedin Hesabım için Tıkla](https://www.linkedin.com/in/bilalkocoglu) 
 ![N|Solid](https://i.ibb.co/dK97ggJ/rehber-app.jpg)
